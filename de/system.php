@@ -1,0 +1,48 @@
+<?php
+
+return [
+    'The above error occurred while the Web server was processing your request.'
+        => 'Der obige Fehler ist aufgetreten, während der Webserver Ihre Anfrage verarbeitet hat.',
+    'Please contact us if you think this is a server error. Thank you.'
+        => 'Bitte kontaktieren Sie uns, wenn Sie denken, dass dies ein Serverfehler ist. Danke.',
+    'Please fill out the following fields to login:' => 'Bitte füllen Sie die folgenden Felder aus, um sich anzumelden:',
+    'email' => 'email',
+    'password' => 'passwort',
+    'confirm password' => 'Bestätigen passwort',
+    'Login' => 'Login',
+    'Find Chia - Login' => 'Find Chia - Login',
+    'Find Chia - Recovery password' => 'Find Chia - Erholung passwort',
+    'Please enter your email to recovery password:' => 'Bitte geben Sie Ihre E-Mail an Recovery-Passwort:',
+    'Send' => 'Senden',
+    'Success' => 'Erfolg',
+    'Please check your email to proceed with changing your password'
+        => 'Bitte überprüfen Sie Ihre E-Mail, um mit der Änderung Ihres Passworts fortzufahren',
+    'Find Chia - Registration' => 'Find Chia - Registrierung',
+    'Please fill out the following fields to registration:' => 'Bitte füllen Sie zur Registrierung die folgenden Felder aus:',
+    'Please check your email and confirm account registration. Access to the pool dashboard will be granted after the official Chia pool protocol mainnet launch, and you will be notified at your email address. Happy farming!'
+        => 'Bitte überprüfen Sie Ihre E-Mail-Adresse und bestätigen Sie die Kontoregistrierung. Der Zugriff auf das Pool-Dashboard wird nach dem offiziellen Start des Chia Pool Protocol Mainnet gewährt und Sie werden unter Ihrer E-Mail-Adresse benachrichtigt. Glückliche Landwirtschaft!',
+    'Registration' => 'Registrierung',
+    'Save' => 'Speichern',
+    'remember me' => 'Erinnere dich an mich',
+    'old password' => 'Altes Passwort',
+    'password reset token' => 'Token zum Zurücksetzen des Kennworts',
+    'hash' => 'Hash',
+    'Create an account to catch up on your NFT statistic' => 'Konto zum Ansehen der NFT-Statistik erstellen',
+    'Start farming without registration' => 'Starten Sie die Landwirtschaft ohne Registrierung',
+    'Just paste this link in your chia client. Check out'=> 'Fügen Sie einfach diesen Link in Ihren Chia Client ein. Auschecken',
+    'for more info.' => 'für weitere Informationen.',
+    'Copied' => 'Kopieren',
+    'paste url here' => 'URL hier einfügen',
+    'Forgot password?' => 'Passwort vergessen?',
+    'Recovery password form'=>'Formular zur Wiederherstellung des Passworts',
+    'Registration success'=>'Registrierung erfolgreich',
+    'Please fill out the following fields to change password:'=>'Bitte füllen Sie die folgenden Felder aus, um das Passwort zu ändern:',
+    'Recovery password'=>'Passwort zum Zurücksetzen',
+    'Change password'=>'Passwort ändern',
+    'New password'=>'Neues Kennwort',
+    'Confirm new password'=>'Bestätige neues Passwort',
+    'Password changed successfully!'=>'Das Passwort wurde erfolgreich geändert!',
+    'Change Password Success'=>'Passwort erfolgreich ändern',
+    'Settings'=>'Einstellungen',
+    'Get an e-mail notification if Harvester doesn\'t send partials to us in...'=>'Erhalten Sie eine E-Mail-Benachrichtigung, wenn Harvester keine Teile an uns in...',
+];

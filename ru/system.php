@@ -1,0 +1,48 @@
+<?php
+
+return [
+    'The above error occurred while the Web server was processing your request.'
+    => 'Вышеупомянутая ошибка произошла во время обработки вашего запроса веб-сервером.',
+    'Please contact us if you think this is a server error. Thank you.'
+    => 'Свяжитесь с нами, если вы считаете, что это ошибка сервера. Спасибо.',
+    'Please fill out the following fields to login:' => 'Пожалуйста, заполните следующие поля для входа:',
+    'email' => 'Email',
+    'password' => 'Пароль',
+    'confirm password' => 'Подтверждение пароля',
+    'Login' => 'Вход',
+    'Find Chia - Login' => 'Find Chia - Вход',
+    'Find Chia - Recovery password' => 'Find Chia - Восстановление пароля',
+    'Please enter your email to recovery password:' => 'Пожалуйста, введите свой адрес электронной почты, чтобы восстановить пароль:',
+    'Send' => 'Отправить',
+    'Success' => 'Успешно',
+    'Please check your email to proceed with changing your password'
+    => 'Пожалуйста, проверьте свою электронную почту, чтобы продолжить изменение пароля',
+    'Find Chia - Registration' => 'Find Chia - Регистрация',
+    'Please fill out the following fields to registration:' => 'Пожалуйста, заполните следующие поля для регистрации:',
+    'Please check your email and confirm account registration. Access to the pool dashboard will be granted after the official Chia pool protocol mainnet launch, and you will be notified at your email address. Happy farming!'
+    => 'Пожалуйста, проверьте свою электронную почту и подтвердите регистрацию аккаунта. Доступ к панели управления пулом будет предоставлен после официального запуска основной сети протокола пула Chia, и вы получите уведомление на свой адрес электронной почты. Удачного фарминга!',
+    'Registration' => 'Регистрация',
+    'Save' => 'Сохранить',
+    'remember me' => 'Запомнить меня',
+    'old password' => 'Старый пароль',
+    'password reset token' => 'Сбросить пароль токена',
+    'hash' => 'Хэш',
+    'Create an account to catch up on your NFT statistic' => 'Создайте аккаунт для отслеживания статистики',
+    'Start farming without registration' => 'Начните без регистрации',
+    'Just paste this link in your chia client. Check out'=> 'Просто вставьте эту ссылку в клиенте Чиа. Перейдите в секцию',
+    'for more info.' => 'для более детального ознакомления',
+    'Copied' => 'Скопировано',
+    'paste url here' => 'вставьте ссылку',
+    'Forgot password?' => 'Восстановление пароля',
+    'Recovery password form'=>'Форма восстановления пароля',
+    'Registration success'=>'Успешная регистрация',
+    'Please fill out the following fields to change password:'=>'Пожалуйста, заполните следующие поля, чтобы изменить пароль:',
+    'Recovery password'=>'Пароль для восстановления',
+    'Change password'=>'Сменить пароль',
+    'New password'=>'Новый пароль',
+    'Confirm new password'=>'Подтвердите новый пароль',
+    'Password changed successfully!'=>'Пароль успешно изменен!',
+    'Change Password Success'=>'Пароль успешно изменен',
+    'Settings'=>'Настройки',
+    'Get an e-mail notification if Harvester doesn\'t send partials to us in...'=>'Получать уведомления на e-mail если Харвестер не высылает партиалы нам в течение...',
+];
